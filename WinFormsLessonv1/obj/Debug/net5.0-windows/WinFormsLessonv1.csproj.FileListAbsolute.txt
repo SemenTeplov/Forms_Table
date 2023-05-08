@@ -1,0 +1,54 @@
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.exe
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.deps.json
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.json
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.dev.json
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\ref\WinFormsLessonv1.dll
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.AssemblyReference.cache
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.Form1.resources
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.GenerateResource.cache
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfoInputs.cache
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfo.cs
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.CoreCompileInputs.cache
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\ref\WinFormsLessonv1.dll
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\8-2\source\repos\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.genruntimeconfig.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.exe
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.deps.json
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.json
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.Form1.resources
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfo.cs
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\refint\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.genruntimeconfig.cache
+C:\Users\Админ\Desktop\WinFormsLessonv1\WinFormsLessonv1\obj\Debug\net5.0-windows\ref\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\bin\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\refint\WinFormsLessonv1.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\WinFormsLessonv1.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\дз Table\WinFormsLessonv1\obj\Debug\net5.0-windows\ref\WinFormsLessonv1.dll

@@ -1,0 +1,11 @@
+District	| Invest	 | Housing	 | Build	 | Equipment	 | Other	
+Северный	 | 100	 | 3,6	 | 3,8	 | 4,8	 | 4,9
+Южный	 | 100	 | 5,7	 | 4,8	 | 48,3	 | 3,8
+Западный	 | 100	 | 1,7	 | 3,9	 | 28,9	 | 2,0
+Восточный	 | 100	 | 3,6	 | 5,0	 | 34,9	 | 4,7
+
+Invest:  Max 100 Min 100
+Housing:  Max 5,7 Min 1,7
+Build:  Max 5 Min 3,8
+Equipment:  Max 48,3 Min 4,8
+Other:  Max 4,9 Min 2
